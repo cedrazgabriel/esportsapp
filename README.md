@@ -6,9 +6,9 @@
  Uma aplicação web e mobile com React e React Native para achar o seu duo no seu game preferido.
  Desenvolvido no evento NLW by Rocketseat
 
- ## :rocket: Technologies
+ ## :rocket: Tecnologias
 
-This project was developed with the following technologies:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/) 
 - [React](https://reactjs.org)
