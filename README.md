@@ -17,7 +17,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [VITE](https://vitejs.dev/)
 - [TAILWINDCSS](https://tailwindcss.com/)
 - [PHOSPHOR ICONS](https://phosphoricons.com/)
-
+- [Prisma](https://www.prisma.io/)
+- [Radix] (https://www.radix-ui.com/)
 ---
 
 ## :memo: License
